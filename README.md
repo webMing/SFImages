@@ -1,2 +1,2 @@
 # SFImages
-Store SegmentFault Images 
+Store the pictures on my SF website.
