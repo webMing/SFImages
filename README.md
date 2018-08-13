@@ -1,0 +1,2 @@
+# SFImages
+Store SegmentFault Images 
